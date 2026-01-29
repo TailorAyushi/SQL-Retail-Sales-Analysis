@@ -1,8 +1,8 @@
 
-#Retail Sales Analysis – SQL Project
+## Retail Sales Analysis – SQL Project
 ## Project Overview
 
-##Project Title: Retail Sales Analysis
+## Project Title: Retail Sales Analysis
 Level: Beginner
 Database: retail_sales_db
 Tool: SQL Server
