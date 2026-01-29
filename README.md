@@ -1,8 +1,8 @@
 
-Retail Sales Analysis – SQL Project
- Project Overview
+#Retail Sales Analysis – SQL Project
+## Project Overview
 
-Project Title: Retail Sales Analysis
+##Project Title: Retail Sales Analysis
 Level: Beginner
 Database: retail_sales_db
 Tool: SQL Server
@@ -12,7 +12,7 @@ The analysis focuses on understanding sales trends, customer behavior, and produ
 
 This project is ideal for beginners who want to build a strong SQL foundation and showcase a real-world analytics project on GitHub and LinkedIn.
 
-Objectives
+## Objectives
 
 Set up a retail sales database
 
